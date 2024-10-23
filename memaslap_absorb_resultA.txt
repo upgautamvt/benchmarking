@@ -1,7 +1,0 @@
-servers: 192.168.200.1
-threads count: 8
-concurrency: 512
-run time: 120s
-windows size: 600k
-set proportion: set_prop=0.10
-get proportion: get_prop=0.90
