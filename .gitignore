@@ -1,5 +1,6 @@
 # Ignore the .DS_Store file in the parent directory
-../.DS_Store
+.DS_Store
 
 # Ignore the .idea directory in the parent directory
-../.idea/
+.idea/
+d2dxe
